@@ -130,3 +130,4 @@ Implement SkillHub, a multi-user Web API platform where users register as learne
 - [ ] Write unit and integration tests using xUnit, Moq, and TestServer
 - [ ] (Optional) Add caching, attendance tracking, background jobs, tag suggestions, or logging
 - [ ] Deliver source code, documentation, and demo
+- [ ] Seed the database with sample data
